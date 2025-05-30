@@ -1,4 +1,3 @@
-
 {
   "name": "solteo-carbon-project",
   "version": "1.0.0",
@@ -13,8 +12,4 @@
     "react-dom": "latest"
   }
 }
-"devDependencies": {
-  "typescript": "^5.2.2",
-  "@types/react": "^18.2.0",
-  "@types/node": "^20.5.9"
-}
+
